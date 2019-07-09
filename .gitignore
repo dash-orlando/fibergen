@@ -1,0 +1,6 @@
+backup/
+DATA/
+*.tmp
+SOURCE/
+AnurismCollagen.hipnc
+*.avi
